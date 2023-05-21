@@ -6,6 +6,8 @@
 ## 💻 Projeto 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://leticiakax.github.io/nlw-setup)
+
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias: 
 - HTML
